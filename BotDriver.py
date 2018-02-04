@@ -1,4 +1,4 @@
-from Reddit import redditpraw
+import redditpraw
 import time
 
 if __name__ == '__main__':
